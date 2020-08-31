@@ -1,6 +1,9 @@
 ## Mini P4 Cube - a Raspberry Pi 4 computer in a 4" Cube 
 
-![](rendering/rendering-1.png)
+![](image/product-5.jpg)
+
+|  ![](image/product-3.jpg)  |  ![](image/product-4.jpg)  |  ![](image/product-1.jpg)  |
+|-----------|----------------|----------------|
 
 ### Off-the-shelf parts 
 
@@ -17,7 +20,7 @@ Optional items:
 All parts can be printed without support material, except the IO panel. 
 Printing orentation: 
 
-![](rendering/printing.png)
+![](image/printing.png)
 
 
 ## Copyright & License 
