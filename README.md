@@ -5,7 +5,7 @@
 |  ![](image/product-3.jpg)  |  ![](image/product-4.jpg)  |  ![](image/product-1.jpg)  |
 |-----------|----------------|----------------|
 
-See how it works [on YouTube](https://www.youtube.com/watch?v=KmeAdLOaYtU)
+See how it works [on YouTube](https://www.youtube.com/watch?v=KmeAdLOaYtU), and [build log on Medium](https://medium.com/@penk/miniature-g4-cube-d86a357a9614)
 
 ### Off-the-shelf parts 
 
