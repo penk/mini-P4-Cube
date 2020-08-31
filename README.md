@@ -5,6 +5,8 @@
 |  ![](image/product-3.jpg)  |  ![](image/product-4.jpg)  |  ![](image/product-1.jpg)  |
 |-----------|----------------|----------------|
 
+See how it works [on YouTube](https://www.youtube.com/watch?v=KmeAdLOaYtU)
+
 ### Off-the-shelf parts 
 
 - Push to open latch ([https://www.amazon.co.jp/dp/B07LGNM7FB](https://www.amazon.co.jp/dp/B07LGNM7FB))
@@ -22,9 +24,8 @@ Printing orentation:
 
 ![](image/printing.png)
 
-
 ## Copyright & License 
 
 Copyright (c) 2020 Ping-Hsun "penk" Chen. All rights reserved.
 
-All files and documentation are licensed under a Creative Commons BY-SA 4.0 international license. 
+All files and documentations are available under a Creative Commons BY-SA 4.0 international license. 
